@@ -1,4 +1,4 @@
-# Design-and-Implementation-of-a-Simple-Networking
+# Design-and-Implementation-of-a-Simple-Network
 
 
 ## 📘 Objective
