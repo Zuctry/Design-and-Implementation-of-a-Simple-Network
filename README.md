@@ -1,12 +1,23 @@
 # Design-and-Implementation-of-a-Simple-Networking
 
 
-Design a network in  Cisco Packet Tracer to connects ACCOUNTS and DELIVERY departments through the following:
-Each department should contain at least two PCs.
-Appropriate number of switches and routers should be used in the network.
-Using the given network 192.168.40.0, all interfaces sould be configured with correct IP addresses, subnet mask and gateways.
-All devices in the network should be connected using appropriate cables.
-Test communication between devices in both ACCOUNTS and DELIVERY departments.
+## 📘 Objective
+
+Design a network in **Cisco Packet Tracer** to connect the **ACCOUNTS** and **DELIVERY** departments, implementing best practices in cabling, IP addressing, and testing.
+
+---
+
+## 🧩 Network Design Requirements
+
+- 🖥️ Each department (**ACCOUNTS** and **DELIVERY**) must include **at least two PCs**.
+- 🧷 Use an appropriate number of **switches** and **routers** to connect all devices.
+- 🌐 Base the design on the IP network: `192.168.40.0/24`.
+- 📋 Configure:
+  - Correct **IP addresses** for all interfaces
+  - **Subnet masks** for each device
+  - Appropriate **default gateways** for host PCs
+- 🔌 Use **correct cabling types** for all connections (e.g., straight-through, crossover).
+- ✅ Perform end-to-end **communication tests** between devices in both departments.
 
 
 # 🖧 Cisco Packet Tracer Network Design Project
