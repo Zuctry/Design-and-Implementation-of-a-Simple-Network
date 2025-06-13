@@ -21,6 +21,8 @@ Design a network in **Cisco Packet Tracer** to connect the **ACCOUNTS** and **DE
 
 
 # 🖧 Cisco Packet Tracer Network Design Project
+![image](https://github.com/user-attachments/assets/a36e9fc0-957d-4a74-a075-36fe4b9ff430)
+
 
 ## 📘 Objective
 
