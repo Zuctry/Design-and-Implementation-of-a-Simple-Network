@@ -28,5 +28,33 @@ Design a network in **Cisco Packet Tracer** to connect the **ACCOUNTS** and **DE
 
 ---
 
-## 🛠 Suggested Topology
+## 💻 Technologies Implemented
+
+This project demonstrates key networking fundamentals using Cisco Packet Tracer and includes the following implementations:
+
+- 🛠️ **Creating a Simple Network**  
+  Designed a basic LAN topology using a **Router** and an **Access Layer Switch**.
+
+- 🔌 **Correct Cabling of Network Devices**  
+  Connected PCs, switches, and routers using appropriate cable types (straight-through and crossover).
+
+- 🌐 **Connecting Two Networks via a Router**  
+  Enabled communication between two different subnets using a **single router**.
+
+- 🧮 **Subnetting and IP Addressing**  
+  Applied custom subnetting on the `192.168.x.x/24` network to efficiently allocate IP ranges.
+
+- 📟 **IP Configuration on Router Interfaces**  
+  Assigned **IPv4 static IPs** to each interface of the router based on the subnet plan.
+
+- 🖥️ **Static IP Assignment to End Devices**  
+  Manually configured static IP addresses on host machines (PCs) within each subnet.
+
+- ✅ **Testing and Verifying Communication**  
+  Used `ping` and other diagnostic tools to validate network connectivity across all devices and departments.
+
+---
+
+> 📁 All configurations were completed in **Cisco Packet Tracer**, and results were verified through simulation mode and successful ping tests.
+
 
